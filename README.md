@@ -8,3 +8,5 @@ It creates a HTML file since I was most familiar with manipulating it to get des
 sorted.py - sorts items by zones which are designated inside the file. It sorts by zone, then by product category.
 
 unsorted.py - this is for different kind of manipulation that does not require sorting, but requires relabeling invoices and getting extra data through webscraping (later is not possible to share nor demonstrate since it contains sensitive and proprietary data.)
+
+cleaner.py - moves all shipments to archive and removes all CSV files for next round of CSV files to be sorted
